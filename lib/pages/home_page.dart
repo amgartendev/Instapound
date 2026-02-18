@@ -9,9 +9,13 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      bottomNavigationBar: CustomBottomNavbar(),
-      body: SingleChildScrollView(
+    return Scaffold(
+      appBar: PreferredSize(
+        preferredSize: const Size.fromHeight(0),
+        child: AppBar(backgroundColor: Colors.white),
+      ),
+      bottomNavigationBar: const CustomBottomNavbar(),
+      body: const SingleChildScrollView(
         child: SafeArea(
           child: Column(
             children: [
