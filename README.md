@@ -1,17 +1,10 @@
-# instapound
+## A little preview for you...
 
-A new Flutter project.
+### Screenshot 1
+<img src="https://i.ibb.co/hFLJhrRT/screenshot1.png" width="500px" />
 
-## Getting Started
+### Screenshot 2
+<img src="https://i.ibb.co/99wPGBWk/screenshot2.png" width="500px" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshot 3
+<img src="https://i.ibb.co/S4fLd5Rv/screenshot3.png" width="500px" />
