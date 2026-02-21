@@ -8,6 +8,7 @@ class CustomBottomNavbar extends StatelessWidget {
     return const SizedBox(
       height: 70,
       child: BottomAppBar(
+        color: Colors.white,
         padding: EdgeInsets.only(top: 5),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,

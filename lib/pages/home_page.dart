@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
       backgroundColor: Colors.white,
       appBar: PreferredSize(
         preferredSize: const Size.fromHeight(0),
-        child: AppBar(backgroundColor: Colors.white),
+        child: AppBar(scrolledUnderElevation: 0, backgroundColor: Colors.white),
       ),
       bottomNavigationBar: const CustomBottomNavbar(),
       body: const SingleChildScrollView(
